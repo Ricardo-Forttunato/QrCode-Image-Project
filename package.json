@@ -1,0 +1,17 @@
+{
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "description": "QR Code project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/input": "^1.2.12",
+    "inquirer": "^9.2.11",
+    "qr-image": "^3.2.0"
+  }
+}
